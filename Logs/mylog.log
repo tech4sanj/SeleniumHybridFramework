@@ -1,0 +1,35 @@
+[INFO ] 2025-06-03 15:56:06.265 [main] MyStoreV1 - URL opened: http://www.automationpractice.pl/index.php
+[INFO ] 2025-06-03 15:56:06.325 [main] MyStoreV1 - ***************TestCase search product started*****************
+[INFO ] 2025-06-03 15:56:08.589 [main] MyStoreV1 - Clicked on sign in link
+[INFO ] 2025-06-03 15:56:08.834 [main] MyStoreV1 - Entered email address
+[INFO ] 2025-06-03 15:56:09.022 [main] MyStoreV1 - Entered password
+[INFO ] 2025-06-03 15:56:10.313 [main] MyStoreV1 - Clicked on Login in link..
+[INFO ] 2025-06-03 15:56:14.763 [main] MyStoreV1 - Searched product test case - passed
+[INFO ] 2025-06-03 16:27:08.547 [main] MyStoreV1 - URL opened: http://www.automationpractice.pl/index.php
+[INFO ] 2025-06-03 16:27:08.590 [main] MyStoreV1 - ***************TestCase search product started*****************
+[INFO ] 2025-06-03 18:26:46.396 [main] MyStoreV1 - URL opened: http://www.automationpractice.pl/index.php
+[INFO ] 2025-06-03 18:26:46.442 [main] MyStoreV1 - ***************TestCase search product started*****************
+[INFO ] 2025-06-03 18:26:51.671 [main] MyStoreV1 - Clicked on sign in link
+[INFO ] 2025-06-03 18:26:51.881 [main] MyStoreV1 - Entered email address
+[INFO ] 2025-06-03 18:26:52.044 [main] MyStoreV1 - Entered password
+[INFO ] 2025-06-03 18:26:57.486 [main] MyStoreV1 - Clicked on Login in link..
+[INFO ] 2025-06-03 18:27:02.506 [main] MyStoreV1 - Searched product test case - passed
+[INFO ] 2025-06-03 18:27:04.887 [main] MyStoreV1 - ***************TestCase Search Product ends*****************
+[INFO ] 2025-06-03 18:39:57.690 [main] MyStoreV1 - URL opened: http://www.automationpractice.pl/index.php
+[INFO ] 2025-06-03 18:39:57.743 [main] MyStoreV1 - ***************TestCase search product started*****************
+[INFO ] 2025-06-03 18:40:16.655 [main] MyStoreV1 - Clicked on sign in link
+[INFO ] 2025-06-03 18:40:16.920 [main] MyStoreV1 - Entered email address
+[INFO ] 2025-06-03 18:40:17.096 [main] MyStoreV1 - Entered password
+[INFO ] 2025-06-03 18:40:17.289 [main] MyStoreV1 - Clicked on Login in link..
+[INFO ] 2025-06-03 18:40:22.528 [main] MyStoreV1 - Searched product test case - passed
+[INFO ] 2025-06-03 18:40:23.755 [main] MyStoreV1 - ***************TestCase Search Product ends*****************
+[INFO ] 2025-06-03 18:47:11.597 [main] MyStoreV1 - URL opened: http://www.automationpractice.pl/index.php
+[INFO ] 2025-06-03 18:47:11.639 [main] MyStoreV1 - ***************TestCase search product started*****************
+[INFO ] 2025-06-03 18:47:13.142 [main] MyStoreV1 - Clicked on sign in link
+[INFO ] 2025-06-03 18:47:13.354 [main] MyStoreV1 - Entered email address
+[INFO ] 2025-06-03 18:47:13.487 [main] MyStoreV1 - Entered password
+[INFO ] 2025-06-03 18:47:14.813 [main] MyStoreV1 - Clicked on Login in link..
+[INFO ] 2025-06-03 18:47:18.892 [main] MyStoreV1 - Searched product test case - passed
+[INFO ] 2025-06-03 18:47:20.125 [main] MyStoreV1 - ***************TestCase Search Product ends*****************
+[INFO ] 2025-06-05 12:12:06.777 [main] MyStoreV1 - URL opened: http://www.automationpractice.pl/index.php
+[INFO ] 2025-06-05 12:12:06.841 [main] MyStoreV1 - ***************TestCase search product started*****************
